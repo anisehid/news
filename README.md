@@ -11,7 +11,7 @@ Incomming tasks:
 - opensource anise-ctl (community version)
 - upload zmk config file
 
-As for today marks the anniversary of the full-fledged invasion of Russia to Ukraine, our prayers are with Ukraine people as well as the oppositions in Russians. Hope a comfortable and easy to carry keyboard will enable more people in different contries to type and to express in a reasonable maner, and stop hating someone who is never met in real life.  
+As for today marks the anniversary of the full-fledged invasion of Russia to Ukraine, our prayers are with Ukraine people as well as the oppositions in Russians. Hope a comfortable and easy to carry keyboard will enable more people in different countries to type and to express in a reasonable maner, and stop hating someone who is never met in real life.  
 
 ---------------------
 14 Feb 2023
